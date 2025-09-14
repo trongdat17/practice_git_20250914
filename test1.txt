@@ -4,3 +4,5 @@ commit 3
 commit 4_rebase
 commit 5_rebase
 commit 4_master
+
+commit 5_master
