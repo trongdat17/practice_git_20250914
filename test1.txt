@@ -4,3 +4,4 @@ commit 3
 commit 4 master1
 
 commit 5 master1
+commit 4 rebase1
